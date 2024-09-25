@@ -1,0 +1,40 @@
+#header {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 6px;
+  }
+  
+  h1 {
+    text-align: right;
+  }
+  
+  #col2 {
+    color: white;
+  }
+  
+  #title {
+    font-size: 4.2em;
+  }
+  
+  h4 {
+    text-align: right;
+    font-size: 1.5em;
+    font-family: 'Wire One', sans-serif;
+  }
+  
+  #footer {
+    font-size: 1.3em;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px;
+  }
+  
+  p {
+    text-align: center;
+  }
